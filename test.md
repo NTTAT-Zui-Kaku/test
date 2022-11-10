@@ -7,6 +7,15 @@
 |  A->B  |  TRUE  |  [TRIGGER_INITIAL_TEST_10](#ti_t1)  |
 
 
+
+```python
+t1= 'ttttttttttttttttttttttttttttt'
+print(t1)
+```
+
+    ttttttttttttttttttttttttttttt
+    
+
 1
 
 2
